@@ -30,7 +30,7 @@ __ c.Sort the array and print it one stone per line
  Print the length of the list using a scalar variable.
  Reverse the list using array slices.
  Print the list separated by spaces.
- Add “mars” to the front of the array.
+ Add â€œmarsâ€ to the front of the array.
  Print out the array again.
  Print its length again.
 
@@ -56,17 +56,17 @@ The total is: 437
 The average is: 87.4
 
 
-3. Given the following array definition, count the number of a’s, b’s, and c’s in
+3. Given the following array definition, count the number of aâ€™s, bâ€™s, and câ€™s in
 the array, the total number of other characters, and the total number of
 characters in the array. Also display the last character in the list.
 @letterlist = qw/a b c d e f g a b c d e/;
-Hint: Use an array to count the a’s, b’s, c’s and other characters. Use a loop
+Hint: Use an array to count the aâ€™s, bâ€™s, câ€™s and other characters. Use a loop
 around a switch construct to increment the counters.
 Sample output:
 For this list: a b c d e f g a b c d e
-2 a’s.
-2 b’s.
-2 c’s.
+2 aâ€™s.
+2 bâ€™s.
+2 câ€™s.
 6 others.
 12 characters in the array.
 Last character is: e
